@@ -1,0 +1,51 @@
+
+
+*{
+    background-color: #DEE2FF;
+}
+
+ #pieza {
+    width: 450px;
+    height: 350px;
+}
+
+#izquierda {
+    background-color: #DEE2FF;
+    width: 50%;
+    height: 50vh;
+    margin-top: 70px;
+}
+
+#derecha {
+    width:auto;
+    height: 50vh;
+    
+}
+ 
+#pantalla-dividida-banner {
+    display: flex;
+}
+
+.hola {
+    color: #b080d3
+}
+
+#hola {
+    font-family:'Yellowtail'; 
+    font-size: 100px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+#presentacion {
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 30px;
+    margin: 50px;
+    color: #797d7f ;
+   
+}
+
+#boton {
+    text-align: center;
+}
